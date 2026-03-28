@@ -5,9 +5,13 @@ How to Run :
 
 Code :
 git clone https://github.com/jennyneupane02/Django-project
+
 cd Django-project
+
 pip install django
+
 python manage.py migrate
+
 python manage.py runserver
 
 Open the app at:
