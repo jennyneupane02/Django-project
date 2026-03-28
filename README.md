@@ -15,9 +15,11 @@ python manage.py migrate
 python manage.py runserver
 
 Open the app at:
+
 http://127.0.0.1:8000/
 
-Features
+Features:
+
 Two pages (list + add)
 
 Django Form with validation
