@@ -1,4 +1,5 @@
 Django Task Tracker
+
 This is a simple Django web app I built for my assignment. It lets a user add tasks and view their own task list. The tasks are stored using Django sessions so each user sees their own data. The project has two pages: a homepage that shows the list and an add page with a form to submit a new task.
 
 How to Run :
